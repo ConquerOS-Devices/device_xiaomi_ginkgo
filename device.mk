@@ -14,7 +14,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     NoCutoutOverlay \
-    NotchBarKiller
+    NotchBarKiller \
+    android.hidl.base@1.0
 
 # Audio
 PRODUCT_COPY_FILES += \
