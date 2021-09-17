@@ -16,7 +16,8 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
 PRODUCT_PACKAGES += \
-    GinkgoMiuiCamera
+    GinkgoMiuiCamera \
+    WillowFrameworkRes
 
 # Board
 TARGET_USES_QCOM_CHIPSET := true
