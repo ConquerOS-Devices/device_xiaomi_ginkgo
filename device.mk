@@ -17,6 +17,8 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     GinkgoMiuiCamera \
+    NoCutoutOverlay \
+    NotchBarKiller \
     WillowFrameworkRes
 
 # Board
